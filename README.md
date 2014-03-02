@@ -1,4 +1,4 @@
 HelloChrome
 ===========
 
-Chrome Hello App - 2
+Chrome Hello App - 3
